@@ -16,10 +16,7 @@ This analysis processes purchase history data to classify customers into actiona
 
 ---
 
-## 📥 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-segmentation.git
+
 
        Install dependencies:
     bash
@@ -85,9 +82,6 @@ Distributed under the MIT License. See LICENSE for details.
 
     Dataset: Transactional purchase records (purchases.txt).
 
-Contact: [Your Name] · [📧 your.email@example.com]
-Repository: github.com/yourusername/customer-segmentation
-Copy
 
 
 This README focuses on **clarity** and **actionable insights**, avoiding code snippets while emphasizing the workflow, results, and strategic recommendations. The use of badges, tables, and emojis enhances readability and engagement.
