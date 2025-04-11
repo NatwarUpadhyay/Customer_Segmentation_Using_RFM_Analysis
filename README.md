@@ -82,6 +82,3 @@ Distributed under the MIT License. See LICENSE for details.
 
     Dataset: Transactional purchase records (purchases.txt).
 
-
-
-This README focuses on **clarity** and **actionable insights**, avoiding code snippets while emphasizing the workflow, results, and strategic recommendations. The use of badges, tables, and emojis enhances readability and engagement.
